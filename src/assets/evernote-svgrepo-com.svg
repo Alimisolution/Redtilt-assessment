@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill=""/>
+  <!-- Elephant head -->
+  <circle cx="512" cy="512" r="300" fill="#2F2F2F"/>
+  <!-- Elephant trunk -->
+  <path d="M358 712c0 60 144 60 144 0s-144-60-144 0z" fill="#2F2F2F"/>
+  <!-- Eye -->
+  <circle cx="450" cy="420" r="15" fill="white"/>
+  <!-- Tusks -->
+  <path d="M380 530c0 20 40 20 40 0s-40-20-40 0z" fill="white"/>
+  <path d="M580 530c0 20 40 20 40 0s-40-20-40 0z" fill="white"/>
+</svg>
